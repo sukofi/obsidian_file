@@ -11,10 +11,14 @@
             "id": "bde0a266cf5f75ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02.AIニュース/2026-02-18.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "2026-02-18"
             }
           }
         ]
@@ -36,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -177,9 +181,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "9a9f715c43f8b13e",
+  "active": "bde0a266cf5f75ea",
   "lastOpenFiles": [
-    "02.AIニュース/2026-02-18.md",
-    "01.SEOニュース/2026-02-18.md"
+    "01.SEOニュース/2026-02-18.md",
+    "02.AIニュース/2026-02-18.md"
   ]
 }
