@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "05.Kindle/鈴木祐-無（最高の状態）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "無題のファイル"
+              "title": "鈴木祐-無（最高の状態）"
             }
           }
         ]
@@ -181,10 +181,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "bde0a266cf5f75ea",
+  "active": "9a9f715c43f8b13e",
   "lastOpenFiles": [
-    "05.Kindle/鈴木祐-無（最高の状態）.md",
+    "は.md",
+    "04.Daily Note/2026-01-16.md",
     "無題のファイル.md",
+    "05.Kindle/鈴木祐-無（最高の状態）.md",
     "00.memo/ジャーナリングアプリ案.md",
     "02.AIニュース/2026-02-27.md",
     "02.AIニュース/2026-02-26.md",
@@ -206,8 +208,6 @@
     "01.SEOニュース/2026-02-24.md",
     "01.SEOニュース/2026-02-23.md",
     "01.SEOニュース/2026-02-22.md",
-    "01.SEOニュース/2026-02-21.md",
-    "01.SEOニュース/2026-02-20.md",
-    "02.AIニュース/2026-02-19.md"
+    "01.SEOニュース/2026-02-21.md"
   ]
 }
