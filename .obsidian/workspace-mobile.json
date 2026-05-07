@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04.Daily Note/2026-02-06.md",
+                "file": "04.Daily Note/2026-01-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-06"
+              "title": "2026-01-22"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "04.Daily Note/2026-02-06.md",
+            "file": "04.Daily Note/2026-01-22.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,10 +169,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcb80ca8df6f731b",
+  "active": "c2f5b5747107325e",
   "lastOpenFiles": [
-    "04.Daily Note/2026-05-07.md",
+    "04.Daily Note/2026-05-08.md",
     "04.Daily Note/2026-02-06.md",
+    "04.Daily Note/2026-05-07.md",
     "は.md",
     "05.Kindle/長谷川俊道-お坊さんが教える「悟り」入門.md",
     "05.Kindle/鈴木祐-無（最高の状態）.md",
@@ -196,7 +197,6 @@
     "05.Kindle/徳美-医師や薬に頼らない！ すべての不調は自分で治せる.md",
     "05.Kindle/徳美-うつ消しごはん　タンパク質と鉄をたっぷり摂れば心と体はみるみる軽くなる！.md",
     "05.Kindle/尾原和啓-モチベーション革命　稼ぐために働きたくない世代の解体書.md",
-    "05.Kindle/小泉健一-アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ.md",
     "05.Kindle",
     "04.Daily Note",
     "03.webclips",
