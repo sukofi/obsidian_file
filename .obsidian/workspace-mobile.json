@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ce2a851b5bb574bf",
+        "id": "9a9dc9daa55888fc",
         "type": "tabs",
         "children": [
           {
-            "id": "6b295bb0bf561a8d",
+            "id": "ad1b2300f3d88bae",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,8 +162,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b295bb0bf561a8d",
+  "active": "ad1b2300f3d88bae",
   "lastOpenFiles": [
+    "04.Daily Note/2026-05-08.md",
     "03.webclips/スコープとは？ビジネス用語の意味や使い方について解説！.md",
     "03.webclips/WBSとは？目的やメリット、作成方法について解説【プロジェクトマネジメント講座 第7章】.md",
     "03.webclips/ウォーターフォールとアジャイルの違いを比較しながら解説！使い分け比較表.md",
@@ -190,7 +191,6 @@
     "05.Kindle/忠三-無印良品は、仕組みが９割　仕事はシンプルにやりなさい.md",
     "05.Kindle/エリック・メドフス-峰岸計羽-死は終わりではない.md",
     "05.Kindle/ジョセフ・グエン-矢島麻里子-考えすぎない練習.md",
-    "05.Kindle/ハイディ・グラント・ハルバーソン-林田レジリ浩文-やる気が上がる8つのスイッチ コロンビア大学モチベーション心理学.md",
     "05.Kindle",
     "01.SEOニュース/2026-01",
     "01.SEOニュース",
