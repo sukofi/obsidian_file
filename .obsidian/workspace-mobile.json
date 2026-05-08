@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.AIニュース/2026-05-08.md",
-                "mode": "preview",
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-08"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "02.AIニュース/2026-05-08.md",
+            "file": "conflict-files-obsidian-git.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,8 +169,10 @@
   },
   "active": "ad1b2300f3d88bae",
   "lastOpenFiles": [
-    "/02.AIニュース/2026-05-08.md",
     "02.AIニュース/2026-05-08.md",
+    "02.AIニュース/2026-02-24.md",
+    "conflict-files-obsidian-git.md",
+    "/02.AIニュース/2026-05-08.md",
     "/02.AIニュース",
     "04.Daily Note/2026-05-08.md",
     "03.webclips/スコープとは？ビジネス用語の意味や使い方について解説！.md",
@@ -195,8 +197,6 @@
     "05.Kindle/徳美-うつ消しごはん　タンパク質と鉄をたっぷり摂れば心と体はみるみる軽くなる！.md",
     "05.Kindle/今井孝-誰でもできるのに９割の人が気づいていない、お金の生み出し方.md",
     "05.Kindle/徳美-医師や薬に頼らない！ すべての不調は自分で治せる.md",
-    "05.Kindle/長谷川俊道-お坊さんが教える「悟り」入門.md",
-    "05.Kindle/忠三-無印良品は、仕組みが９割　仕事はシンプルにやりなさい.md",
     "05.Kindle",
     "01.SEOニュース/2026-01",
     "01.SEOニュース",
