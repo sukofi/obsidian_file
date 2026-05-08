@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "24bf7a399353b5e2",
+    "id": "a0b15c548d641bcc",
     "type": "split",
     "children": [
       {
-        "id": "9ccb0ad9a5577fc3",
+        "id": "33ef90187ee19475",
         "type": "tabs",
         "children": [
           {
-            "id": "9c6d93fc5dc4aceb",
+            "id": "c2f5b5747107325e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04.Daily Note/2026-05-08.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "2026-05-08"
             }
           }
         ]
@@ -23,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "50eb0537d140a770",
+    "id": "da379c96ad18edfd",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "8d8dcfed7015d85d",
+        "id": "dcb80ca8df6f731b",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -40,7 +44,7 @@
         }
       },
       {
-        "id": "a27e81b8798a0e3d",
+        "id": "71351d6f7a3d8591",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -57,7 +61,7 @@
         }
       },
       {
-        "id": "9bc9dba413e181c7",
+        "id": "90422b4f7edd4038",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -72,7 +76,7 @@
         }
       },
       {
-        "id": "407d5adf39b048cc",
+        "id": "e17e417a70eb0f67",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -86,7 +90,7 @@
         }
       },
       {
-        "id": "b9910f6a431bf618",
+        "id": "b210e97e2af8be59",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -99,15 +103,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "abd0594eb7417102",
+    "id": "ce2543af574a5726",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "60a1bd5db034efbe",
+        "id": "cc0f698fb7fafd3c",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "04.Daily Note/2026-05-08.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,11 +126,12 @@
         }
       },
       {
-        "id": "38dbf51738609569",
+        "id": "e2f28d2e99b5dcdf",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "04.Daily Note/2026-02-06.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -134,11 +140,12 @@
         }
       },
       {
-        "id": "b0a714e91fe5cc3e",
+        "id": "c059a32df87b4a3d",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
+            "file": "04.Daily Note/2026-02-06.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -162,42 +169,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c6d93fc5dc4aceb",
+  "active": "c2f5b5747107325e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "02.AIニュース/2026-03",
-    "02.AIニュース/2026-02",
     "02.AIニュース/2026-05-08.md",
-    "02.AIニュース/2026-02/2026-02-24.md",
     "/02.AIニュース/2026-05-08.md",
+    "02.AIニュース/2026-03/2026-03-06.md",
+    "02.AIニュース/2026-03/2026-03-02.md",
+    "02.AIニュース/2026-03/2026-03-01.md",
+    "02.AIニュース/2026-02/2026-02-22.md",
+    "02.AIニュース/2026-02/2026-02-21.md",
+    "02.AIニュース/2026-03/2026-03-20.md",
+    "02.AIニュース/2026-03/2026-03-19.md",
+    "02.AIニュース/2026-03/2026-03-16.md",
+    "02.AIニュース/2026-03/2026-03-14.md",
+    "02.AIニュース/2026-03/2026-03-13.md",
+    "02.AIニュース/2026-03/2026-03-12.md",
+    "02.AIニュース/2026-03/2026-03-11.md",
+    "02.AIニュース/2026-03/2026-03-10.md",
+    "02.AIニュース/2026-03/2026-03-09.md",
+    "02.AIニュース/2026-03/2026-03-08.md",
+    "02.AIニュース/2026-03/2026-03-07.md",
+    "02.AIニュース/2026-03/2026-03-05.md",
+    "02.AIニュース/2026-03/2026-03-04.md",
+    "02.AIニュース/2026-03/2026-03-03.md",
+    "02.AIニュース/2026-02/2026-02-28.md",
+    "02.AIニュース/2026-02/2026-02-25.md",
+    "02.AIニュース/2026-02/2026-02-24.md",
+    "02.AIニュース/2026-02/2026-02-23.md",
+    "02.AIニュース/2026-02/2026-02-20.md",
+    "/02.AIニュース/2026-02",
+    "02.AIニュース/2026-03",
+    "/02.AIニュース/2026-03",
     "/02.AIニュース",
-    "04.Daily Note/2026-05-08.md",
-    "03.webclips/スコープとは？ビジネス用語の意味や使い方について解説！.md",
-    "03.webclips/WBSとは？目的やメリット、作成方法について解説【プロジェクトマネジメント講座 第7章】.md",
-    "03.webclips/ウォーターフォールとアジャイルの違いを比較しながら解説！使い分け比較表.md",
-    "03.webclips",
-    "05.Kindle/水野敬也-夢をかなえるゾウ２.md",
-    "05.Kindle/小泉健一-アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ.md",
-    "05.Kindle/鈴木祐-無（最高の状態）.md",
-    "05.Kindle/メンタリストDaiGo-自分を操る超集中力.md",
-    "05.Kindle/天羽健介-増田雅史-ＮＦＴの教科書　ビジネス・ブロックチェーン・法律・会計まで　デジタルデータが資産になる未来.md",
-    "05.Kindle/ひすいこたろう-あなたの人生がつまらないと思うんなら、 それはあなた自身がつまらなくしているんだぜ。 １秒でこの世界が変わる７０の答え.md",
-    "05.Kindle/野口真代-WEBコピーライター月30万円稼ぐ方法.md",
-    "05.Kindle/俊明-禅「心の大そうじ」―――一瞬一瞬を大事にする「幸せな生き方」.md",
-    "05.Kindle/サンジェイ・グプタ-伊藤理恵-SHARP BRAIN　たった１２週間で天才脳を養う方法.md",
-    "05.Kindle/伝-ひとりビジネスの教科書 Premium 自宅起業でお金と自由を手に入れて成功する方法.md",
-    "05.Kindle/尾原和啓-モチベーション革命　稼ぐために働きたくない世代の解体書.md",
-    "05.Kindle/Kindle出版の教科書.md",
-    "05.Kindle/金嶽宗信-［禅的］持たない生き方.md",
-    "05.Kindle/キム・ユジン-小笠原藤子-朝イチの「ひとり時間」が人生を変える.md",
-    "05.Kindle/メンタリストDaiGo-自分を操り、不安をなくす 究極のマインドフルネス.md",
-    "05.Kindle/徳美-うつ消しごはん　タンパク質と鉄をたっぷり摂れば心と体はみるみる軽くなる！.md",
-    "05.Kindle/今井孝-誰でもできるのに９割の人が気づいていない、お金の生み出し方.md",
+    "02.AIニュース/2026-02",
     "05.Kindle",
-    "01.SEOニュース/2026-01",
-    "01.SEOニュース",
     "04.Daily Note",
-    "00.memo",
-    "02.AIニュース/2026-01"
+    "03.webclips",
+    "02.AIニュース/2026-01",
+    "02.AIニュース"
   ]
 }
