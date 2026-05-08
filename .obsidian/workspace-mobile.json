@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9a9dc9daa55888fc",
+        "id": "9ccb0ad9a5577fc3",
         "type": "tabs",
         "children": [
           {
-            "id": "ad1b2300f3d88bae",
+            "id": "9c6d93fc5dc4aceb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "新規タブ"
             }
           }
         ]
@@ -112,7 +108,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -167,11 +162,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad1b2300f3d88bae",
+  "active": "9c6d93fc5dc4aceb",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "02.AIニュース/2026-05-08.md",
     "02.AIニュース/2026-02-24.md",
-    "conflict-files-obsidian-git.md",
     "/02.AIニュース/2026-05-08.md",
     "/02.AIニュース",
     "04.Daily Note/2026-05-08.md",
